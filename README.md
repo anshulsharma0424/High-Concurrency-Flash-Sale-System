@@ -106,8 +106,8 @@ RESULT: Two items sold, but DB stock only decreased by 1.
 
 ## 🧰 Tech Stack
 
-* **Language:** Java 21
-* **Framework:** Spring Boot 3.3 (Web, Data JPA)
+* **Language:** Java 25
+* **Framework:** Spring Boot 5.8.9 (Web, Data JPA)
 * **Database:** PostgreSQL 16
 * **Caching / Locking:** Redis 7 (Atomic Counters)
 * **Testing:** JUnit 5, ExecutorService (Concurrency Simulation)
